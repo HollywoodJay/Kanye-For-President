@@ -1,0 +1,46 @@
+.heading {
+    text-align: center;
+    background-color: gold;
+    border: solid 10px;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    border: solid 5px;
+    padding: 5px;
+}
+
+.cta {
+    display: flex;
+}
+
+.fun-facts {
+    width: 80%;
+    background-color: gold;
+    color: black;
+    text-align: center;
+    border: solid 5px;
+    padding: 5px;
+}
+
+.donate {
+    width: 20%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid gold 5px;
+    padding: 5px;
+}
+
+img {
+    height: 160px;
+    border: dashed gold 5px;
+}
+
+body {
+    background-color: gold;
+}
